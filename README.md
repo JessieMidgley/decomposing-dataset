@@ -15,5 +15,5 @@ Provide me with the Rmarkdown file that:
 4. creates the appropriate schema and tables (DDL)
 5. loads the data into the schema 
 6. performs several joins such that each table is used at least once returning several lines from each join
-7. 
+
 I should be able to execute your R markdown file (.Rmd) by substituting in the location of the data file.
